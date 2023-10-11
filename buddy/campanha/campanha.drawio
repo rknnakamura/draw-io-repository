@@ -1,17 +1,20 @@
-<mxfile host="app.diagrams.net" modified="2023-10-11T01:45:32.491Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15" etag="8EqIEtgT2J-qsHMI91dE" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-11T02:10:51.957Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15" etag="E9MFimXLvT2BlS-RlECG" version="22.0.4" type="github">
   <diagram name="Página-1" id="Fo088PdOUojlw_hWXOyv">
     <mxGraphModel dx="2261" dy="717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="9aJfCgrfDxPzOoMtyjnt-1" value="buddy" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="360" width="120" height="60" as="geometry" />
+          <mxGeometry x="250" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9aJfCgrfDxPzOoMtyjnt-2" value="WhatsApp-service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9aJfCgrfDxPzOoMtyjnt-3" value="campaign" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-40" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9aJfCgrfDxPzOoMtyjnt-6" value="buddy-front" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="240" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
